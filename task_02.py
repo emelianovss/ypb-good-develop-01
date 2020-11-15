@@ -1,9 +1,7 @@
 from typing import Dict
 
-MyDict = Dict[str, int]
 
-
-def func(d: MyDict):
+def func(d: Dict[str, int]):
     pass
 
 
